@@ -9,8 +9,7 @@ RUN apt-get update && apt-get install  -y \
 	cscope \
 	ctags \
 	autoconf \
-	ncurses-base \
-	ncurses-bin \
+	libncurses-dev \
 	zsh \
 	wget \
 	tar \
